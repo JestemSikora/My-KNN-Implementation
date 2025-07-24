@@ -33,9 +33,7 @@ The workflow consists of:
 - Libraries (install via `pip install`):
   - pandas → 2.2.3
   - matplotlib → 3.10.1
-  - twikit → 2.3.3
-  - beautifulsoup4 → 4.13.3
-  - sklearn → 1.6.1
+  - scikit-learn → 1.6.1
  
 
 
