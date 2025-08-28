@@ -1,40 +1,23 @@
-# Iris Detection - My implementation of KNN Algorithm
+# KNN Mini-Project
+
+This repository contains a **mini-project** focused on understanding and implementing the main concepts behind the **KNN algorithm**.  
+The project is presented in Jupyter Notebooks with notes and simple example usage using libraries.
 
 ---
 
-
-## Spis treści
-
-- [Description](#description) 
-- [Requirements](#requirements)
-  
----
-
-## Description
-
-In this project, my goal is to classify Iris species based on sepal and petal length and width using my own implementation of the K-Nearest Neighbors algorithm. The results will be visualized with plots that show, for each measurement, the predicted species of Iris.
-
-The workflow consists of:
-
-* **iris_dataset.py**  
-  Downloading the Iris dataset from scikit-learn and splitting it into training and test sets for features (X) and labels (y).
-
-* **Plotting_data.py**  
-  Defining a class that provides functions to generate the necessary charts.
-
-* **KNN_from_scratch.py**  
-  Implementing the KNN algorithm from scratch.
+## 📖 Overview
+    1. Notes for XGBoost
+        A. Main idea
+        B. How it works
+        D. When to use it?
+    2. Implementation from scratch and using library
 
 ---
 
-## Requirements
+## ⚙️ Installation
+Clone the repository and install the dependencies:
 
-- Python version **3.8** or higher
-- Libraries (install via `pip install`):
-  - pandas → 2.2.3
-  - matplotlib → 3.10.1
-  - scikit-learn → 1.6.1
- 
-
-
-
+```bash
+git clone https://github.com/your-username/My-XGBoost-Implementation.git
+cd My-XGBoost-Implementation
+pip install -r requirements.txt
