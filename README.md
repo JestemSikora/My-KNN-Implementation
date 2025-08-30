@@ -6,7 +6,7 @@ The project is presented in Jupyter Notebooks with notes and simple example usag
 ---
 
 ## 📖 Overview
-    1. Notes for XGBoost
+    1. Notes for KNN
         A. Main idea
         B. How it works
         D. When to use it?
